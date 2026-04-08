@@ -1,0 +1,14 @@
+# Core PyTorch ecosystem
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data manipulation and visualization
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# Jupyter environment utilities
+ipython>=7.31.1
+jupyter>=1.0.0
+
+# Progress tracking (highly recommended for GAN training loops)
+tqdm>=4.64.0
